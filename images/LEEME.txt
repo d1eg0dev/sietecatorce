@@ -1,8 +1,0 @@
-Coloca aquí las imágenes con estos nombres EXACTOS:
-  hero.jpg                (fondo del hero — horizontal, oscuro/cinematográfico)
-  prive.jpg               (banda 714 Privé — vertical 4:5)
-  div-inmobiliaria.jpg    (miniatura Bi-Raíces 7)
-  div-access.jpg          (miniatura Access 714)
-  div-estudio.jpg         (miniatura 714 Estudio)
-  div-prive.jpg           (miniatura 714 Privé)
-Si falta alguna, el sitio usa un respaldo elegante automáticamente.
