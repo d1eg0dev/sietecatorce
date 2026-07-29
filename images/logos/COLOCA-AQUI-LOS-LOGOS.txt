@@ -1,3 +1,0 @@
-Sube aquí los logos: logo-1.png, logo-2.png, ... logo-8.png
-(PNG o SVG con fondo transparente. Se ven en blanco automáticamente.)
-Para cambiar cuáles/cuántos, edita el arreglo LOGOS al final de index.html.
